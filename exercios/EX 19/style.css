@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(134, 91, 173);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+h1{
+color: rgb(39, 21, 37) 29;
+}
+h1#principal{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+h2{
+color: rgb(48, 34, 61) ;
+}
+
+
+.basico{
+color: green;
+font-weight: bold;
+}
+
+.intermediario{
+color: blue;
+font-weight: bold;
+}
+
+.avansado{
+color: red;
+font-weight: bold;
+}
+
+.destque{
+    background-color: chartreuse;
+}
