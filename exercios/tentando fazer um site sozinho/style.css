@@ -1,0 +1,33 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.336);
+
+}
+header{ background-color: rgba(255, 68, 0, 0.808);}
+header.parte01{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    box-shadow:6px 6px 13px 0px rgba(0, 0, 0, 0.596);;
+}
+header > h3{
+    background-color: rgba(255, 255, 0, 0.623);
+    margin: 0px;
+    padding: 0px;
+    
+}
+header.parte02 > section{
+    background-color: rgba(255, 255, 0, 0.623);
+    margin: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+header.parte02{
+    box-shadow: 6px 6px 13px 0px rgba(0, 0, 0, 0.596);
+}
+   
